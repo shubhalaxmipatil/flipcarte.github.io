@@ -1,0 +1,30 @@
+@media screen and(max-width: 1000px){
+    body{
+       
+    }
+    nav{
+        display: inline-flex;
+        justify-content: center;
+        flex-direction: column;
+
+    }
+    .logo{
+        text-align: center;
+    }
+    header{
+        height: 10vh;
+    }
+    .slider img{
+        justify-content: center;
+        width: 50%;
+        padding: 10px;
+    }
+    .card{
+        margin-left: 20px;
+    }
+    .containerslide1{
+        display: inline;
+        flex-direction: column;
+        margin: 0 10px;
+    }
+}
